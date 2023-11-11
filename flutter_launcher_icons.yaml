@@ -1,0 +1,3 @@
+android:
+  # The path to the icon file.
+  icon: assets/images/icon.png
